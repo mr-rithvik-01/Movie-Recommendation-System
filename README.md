@@ -33,9 +33,9 @@ Navigate to the project directory:
 cd movie-recommendation-system
 
 Install the required dependencies:
-pip install numpy
-pip install pandas
-pip insatll streamlit
+pip install numpy,
+pip install pandas,
+pip insatll streamlit,
 pip install pickle
 
 -----------Usage------------
