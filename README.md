@@ -48,5 +48,5 @@ Adding user authentication for personalized recommendation tracking.
 Incorporating collaborative filtering for improved recommendation accuracy.
 Expanding the dataset to include a broader range of movies and ratings.
 
-_Acknowledgments__
+__Acknowledgments__
 Thanks to open-source contributors and the creators of Streamlit, Scikit-learn, and Pandas for their powerful tools.
