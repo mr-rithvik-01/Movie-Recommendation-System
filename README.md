@@ -1,4 +1,4 @@
-**Movie Recommendation System**
+# Movie Recommendation System
 
 **Project Overview**
 The Movie Recommendation System is designed to provide personalized movie suggestions to users based on their preferences. It leverages cosine similarity and vectorization techniques to find similarities between movies and recommend relevant titles. The system transforms movie data (genres, keywords, etc.) into vectors and compares them using cosine similarity to deliver accurate recommendations.
